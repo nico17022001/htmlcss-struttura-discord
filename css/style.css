@@ -43,7 +43,7 @@ header .container div{
   width: 70%;
   height: 180px;
   background-color:#ee82ee;
-  border:solid darkgray 0.1px;
+  border:dashed #fafdfd 1px;
 }
 
 .white{
@@ -94,9 +94,9 @@ header .container div{
 .smeraldo{
   background-color: #7fffd4;
   width: 80%;
-  height: 20px;
+  height: 40px;
   display: flex;
   justify-content: space-between;
-  padding: 0 10px;
+  padding: 10px 0px;
 }
 
