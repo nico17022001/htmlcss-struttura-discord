@@ -38,15 +38,28 @@ header .container div{
 .blue{
   background-color:#00008b;
   padding: 30px;
-
 }
 
 .sector{
   width: 70%;
-  height: 120px;
+  height: 180px;
   background-color:#ee82ee;
+  border:solid black 0.1px;
 }
 
-.blue{
-  background-color: darkblue;
+
+.white{
+  padding: 30px;
+}
+
+.azzurro{
+  background-color: #1e90ff;
+  width: 60%;
+  height: 250px;
+}
+
+.rosa{
+  background-color: #ffc0cb;
+  width: 20%;
+  height: 250px;
 }
