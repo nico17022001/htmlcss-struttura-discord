@@ -10,7 +10,6 @@ header{
 }
 
 header .container{
-  display: flex;
   justify-content: space-between;
   background-color: #daa520;
 }
@@ -77,6 +76,7 @@ header .container div{
 .black{
   background-color: #23272a;
   padding: 30px;
+  border: #d3d3d3 solid 0.1px;
 }
 
 .pink{
@@ -90,3 +90,13 @@ header .container div{
   width: 10%;
   height: 500px;
 }
+
+.smeraldo{
+  background-color: #7fffd4;
+  width: 80%;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
