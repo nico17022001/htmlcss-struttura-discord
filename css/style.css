@@ -22,7 +22,11 @@ header .container div{
   text-decoration: none;
 }
 
-header ul li a{
+header li{
+  margin: 2px;
+}
+
+header  a{
   text-decoration: none;
 }
 
