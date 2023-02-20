@@ -44,9 +44,8 @@ header .container div{
   width: 70%;
   height: 180px;
   background-color:#ee82ee;
-  border:solid black 0.1px;
+  border:solid darkgray 0.1px;
 }
-
 
 .white{
   padding: 30px;
@@ -62,4 +61,32 @@ header .container div{
   background-color: #ffc0cb;
   width: 20%;
   height: 250px;
+}
+
+.gray{
+  padding: 30px;
+  background-color: #d3d3d3;
+}
+
+.verde{
+  background-color: green;
+  width: 80%;
+  height: 500px;
+}
+
+.black{
+  background-color: #23272a;
+  padding: 30px;
+}
+
+.pink{
+  background-color: #f08080;
+  width: 40%;
+  height: 500px;
+}
+
+.acqua{
+  background-color: #20b2aa;
+  width: 10%;
+  height: 500px;
 }
