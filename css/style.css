@@ -7,6 +7,7 @@
 header{
   background-color: #add8e6;
   padding: 10px 0px;
+  display: flex;
 }
 
 header .container{
@@ -34,9 +35,13 @@ header .container div{
   justify-content: center;
 }
 
+.box{
+  padding: 30px;
+  display: flex;
+}
+
 .blue{
   background-color:#00008b;
-  padding: 30px;
 }
 
 .sector{
@@ -44,10 +49,6 @@ header .container div{
   height: 180px;
   background-color:#ee82ee;
   border:dashed #fafdfd 1px;
-}
-
-.white{
-  padding: 30px;
 }
 
 .azzurro{
@@ -63,7 +64,6 @@ header .container div{
 }
 
 .gray{
-  padding: 30px;
   background-color: #d3d3d3;
 }
 
@@ -75,7 +75,6 @@ header .container div{
 
 .black{
   background-color: #23272a;
-  padding: 30px;
   border: #d3d3d3 solid 0.1px;
 }
 
