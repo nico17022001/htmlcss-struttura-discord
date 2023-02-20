@@ -19,6 +19,11 @@ header .container div{
   margin: 0px 10px;
   display: flex;
   align-items: center;
+  text-decoration: none;
+}
+
+header ul li a{
+  text-decoration: none;
 }
 
 .menu{
@@ -36,8 +41,8 @@ header .container div{
 }
 
 .box{
-  padding: 30px;
   display: flex;
+  padding: 20px;
 }
 
 .blue{
@@ -53,13 +58,13 @@ header .container div{
 
 .azzurro{
   background-color: #1e90ff;
-  width: 60%;
+  width: 75%;
   height: 250px;
 }
 
 .rosa{
   background-color: #ffc0cb;
-  width: 20%;
+  width: 25%;
   height: 250px;
 }
 
@@ -69,7 +74,7 @@ header .container div{
 
 .verde{
   background-color: green;
-  width: 80%;
+  width: 100%;
   height: 500px;
 }
 
@@ -80,19 +85,19 @@ header .container div{
 
 .pink{
   background-color: #f08080;
-  width: 40%;
+  width: 45%;
   height: 500px;
 }
 
 .acqua{
   background-color: #20b2aa;
-  width: 10%;
+  width: 15%;
   height: 500px;
 }
 
 .smeraldo{
   background-color: #7fffd4;
-  width: 80%;
+  width: 100%;
   height: 40px;
   display: flex;
   justify-content: space-between;
