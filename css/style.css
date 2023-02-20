@@ -7,17 +7,33 @@
 header{
   background-color: aqua;
   height: 60px;
+  padding: 10px 0px;
 }
 
-.hcontainer{
-  height: 40px;
+.container{
   background-color: yellow;
   margin: 0px 200px;
+  padding: 10px 5px;
   display: flex;
   justify-content: space-between;
+  
 }
 
-.hcontainer>div{
+.container>div{
   border: 1px solid;
+}
 
+section{
+  padding: 50px 5px;
+}
+
+.blu{
+  background-color: blue;
+}
+
+.container2{
+  height: 200px;
+  background-color: rgb(235, 45, 193);
+  margin: 0px 350px;
+  display: flex;
 }
