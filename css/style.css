@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: aqua;
+  height: 60px;
+}
+
+.hcontainer{
+  height: 40px;
+  background-color: yellow;
+  margin: 0px 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hcontainer>div{
+  border: 1px solid;
+
+}
