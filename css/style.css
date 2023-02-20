@@ -5,35 +5,48 @@
 }
 
 header{
-  background-color: aqua;
-  height: 60px;
+  background-color: #add8e6;
   padding: 10px 0px;
 }
 
-.container{
-  background-color: yellow;
-  margin: 0px 200px;
-  padding: 10px 5px;
+header .container{
   display: flex;
   justify-content: space-between;
-  
+  background-color: #daa520;
 }
 
-.container>div{
-  border: 1px solid;
-}
-
-section{
-  padding: 50px 5px;
-}
-
-.blu{
-  background-color: blue;
-}
-
-.container2{
-  height: 200px;
-  background-color: rgb(235, 45, 193);
-  margin: 0px 350px;
+header .container div{
+  margin: 0px 10px;
   display: flex;
+  align-items: center;
+}
+
+.menu{
+  padding: 10px 5px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.container{
+  width: 1170px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+
+.blue{
+  background-color:#00008b;
+  padding: 30px;
+
+}
+
+.sector{
+  width: 70%;
+  height: 120px;
+  background-color:#ee82ee;
+}
+
+.blue{
+  background-color: darkblue;
 }
